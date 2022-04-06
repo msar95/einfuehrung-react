@@ -1,4 +1,4 @@
-'use strict';
+import React from "react";
 
 export class Headline extends React.Component{
     render() {

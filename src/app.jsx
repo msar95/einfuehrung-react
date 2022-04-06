@@ -1,3 +1,5 @@
+import React from "react";
+
 import { Message } from "./Message";
 
 export class App extends React.Component { //Klassebasierte Komponente

@@ -1,3 +1,5 @@
+import React from "react";
+
 import {Paragraph}from './Paragraph'
 import {Headline} from './Headlines'
 
