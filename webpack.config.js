@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    mode:'production',
+    mode:'development',
     entry: path.resolve('src', 'index.jsx'),
     module: {
         rules:[
