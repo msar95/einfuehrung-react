@@ -1,5 +1,5 @@
-import {Paragraph}from './Paragraph.js'
-import {Headline} from './Headlines.js'
+import {Paragraph}from './Paragraph'
+import {Headline} from './Headlines'
 
 export class Message extends React.Component {
     render() {
